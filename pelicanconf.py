@@ -14,7 +14,6 @@ DISPLAY_PAGES_ON_MENU = True
 DEFAULT_LANG = u'en'
 
 #THEME = '/home/mridul/nilmtk/pelican/pelican-themes/voidy-bootstrap/'
-SITESUBTITLE ='Independent Project - Monsoon 2014'
 STYLESHEETS = ("pygment.css", "voidybootstrap.css",)
 CUSTOM_ARTICLE_SHARING = "sharing.html"
 CUSTOM_ARTICLE_SCRIPTS = "sharing_scripts.html"
